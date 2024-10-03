@@ -1,20 +1,73 @@
-#hola{ 
-    background-color: rgb(36, 78, 78); 
-    margin-right: 77%;
-    text-align: center;
-    margin-top: -1%;}
-#parrafo{
-    padding: 30%;
-  margin-top: -16%;}
 
-    .grid-container {
-      display:grid; 
-      grid-template-columns: repeat(2,1fr);
-      grid-template-rows: repeat(2,50px);
-      gap: 10px;   
-    }
-    .item1 {background-color: aquamarine; border-radius: 50px; height: 30px; width: 30px;}
-    .item2 {background-color: blue;}
-    .item3 {background-color: rgb(107, 128, 59);}
-    .item4 {background-color: rgb(143, 36, 137);}
 
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: black;
+  background-position: center;
+  background-size: cover;
+  max-width: 150px;
+  height: auto;
+  background-image: none;
+}
+
+.header-title {
+  font-size: 2rem;
+  color: #333;
+}
+
+
+
+h3 {
+  margin-right: 400px;
+  padding-left: 10px; 
+  font-family:'Courier New', Courier, monospace;
+  color: brown;
+ }
+#Parrafo1, p {
+ margin-right: 400px;
+ padding-left: 10px; 
+ font-family:monospace;
+}
+#Parrafo2, p {
+  margin-right: 400px;
+  padding-left: 10px; 
+  font-family:monospace;
+ }
+ #Parrafo3, p {
+  margin-right: 400px;
+  padding-left: 10px; 
+  font-family:monospace;
+ }
+ #Parrafo4, p {
+  margin-right: 400px;
+  padding-left: 10px; 
+  font-family:monospace;
+ }
+
+ #cafeI {
+  width: 20%;
+  height: 20%;
+  margin-left: 90%;
+
+}
+ #cafeC {
+  width: 25%;
+  height: 25%;
+  margin-left: 90%;
+  
+ }
+ #cafeB {
+  width: 25%;
+  height: 25%;
+  margin-left: 90%;
+  
+ }
+ #cafeBl {
+  width: 25%;
+  height: 25%;
+  margin-left: 90%;
+  
+ }
