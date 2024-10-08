@@ -1,23 +1,22 @@
-
+*{
+  margin: 0%;
+  padding: 0%;
+}
 
 .header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 20px;
-  background-color: black;
-  background-position: center;
   background-size: cover;
-  max-width: 150px;
-  height: auto;
-  background-image: none;
+  background-repeat: no-repeat;
+  background-color: rgb(128, 71, 31);
+   
 }
 
 .header-title {
   font-size: 2rem;
   color: #333;
 }
-
+body {
+ background-color: rgba(170, 130, 111, 0.616);
+}
 
 
 h3 {
@@ -71,3 +70,4 @@ h3 {
   margin-left: 90%;
   
  }
+ 
