@@ -1,0 +1,65 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+header {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgb(128, 71, 31);
+   
+}
+
+#tituloheader{
+  font-size: 2rem;
+  color: #080808;
+  text-align: center;
+}
+#subtitulo{
+  text-align: center;
+  color: #080808;
+}
+body {
+ background-color: rgba(170, 130, 111, 0.616);
+}
+
+
+h3 {
+  margin-right: 400px;
+  padding-left: 10px; 
+  font-family:'Courier New', Courier, monospace;
+  color: brown;
+ }
+#parrafo1, #parrafo2, #parrafo3, #parrafo4{
+ margin-right: 400px;
+ padding-left: 10px; 
+ font-family:monospace;
+ text-align: justify;
+ justify-content: space-between;
+ font-size: 120%;
+}
+ #cafeI {
+  width: 20%;
+  height: 20%;
+  margin-left: 90%;
+
+}
+ #cafeC {
+  width: 25%;
+  height: 25%;
+  margin-left: 90%;
+  
+ }
+ #cafeB {
+  width: 25%;
+  height: 25%;
+  margin-left: 90%;
+  
+ }
+ #cafeBl {
+  width: 25%;
+  height: 25%;
+  margin-left: 90%;
+  
+ }
+ 
